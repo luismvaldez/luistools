@@ -16,13 +16,7 @@ Code File Merger is a Python script that allows you to merge multiple code files
 
 ## Installation
 
-1. Clone the repository:
-
-   ```shell
-   git clone https://github.com/your-username/code-file-merger.git
-   ```
-
-2. Install the required dependencies using `requirements.txt`:
+1. Install the required dependencies using `requirements.txt`:
 
    ```shell
    pip install -r requirements.txt
